@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Social Media Manifest",
+    "description": "",
+    "home_page_url": "https://social-media-manifest.de",
+    "feed_url": "https://social-media-manifest.de/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "-"
+    },
+    "items": [
+    ]
+}
